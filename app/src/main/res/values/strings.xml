@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="ast">*</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="discount">Discount (%)</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="defaultNum">91234567</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="total_bill">Total Bill: $0.00</string>
+    <string name="each_pays">Each Pays: $0.00</string>
+</resources>
