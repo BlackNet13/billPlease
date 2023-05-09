@@ -184,7 +184,6 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 float splitting=total/numI;
-                /*String formt= String.format("%.2f",);*/
 
                 outputV1.setText("Total Bill: $"+total);
                 outputV2.setText("Each Pays: $"+ String.format("%.2f",splitting)+payMent);
